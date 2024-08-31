@@ -17,3 +17,4 @@ pip install paddleocr~=2.8.1
 pip install pillow~=10.4.0
 pip install paddlepaddle
 pip install setuptools
+pip install --upgrade pip setuptools wheel
