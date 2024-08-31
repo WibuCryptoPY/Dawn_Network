@@ -4,6 +4,7 @@ From : https://wibucrypto.pro/ | Telegram @wibuairdrop142
 # Step 1
 
 Install python : https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe
+Install VS C++ : https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 # Step 2 
 
