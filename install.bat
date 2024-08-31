@@ -16,3 +16,4 @@ pip install numpy~=1.26.4
 pip install paddleocr~=2.8.1
 pip install pillow~=10.4.0
 pip install paddlepaddle
+pip install setuptools
